@@ -4,7 +4,7 @@
 
 
 def secret_amazon_service():
-# Hash 4
+Hash 4
 # Hash 5
 # Hash 6
 # Hash 7

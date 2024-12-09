@@ -1,6 +1,6 @@
 # The Great Hashtag Removal Challenge 🚫#️⃣
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## The Legendary Hash Removal Challenge 🕵️‍♂️
@@ -48,6 +48,7 @@ Contributors who've bravely removed the hash will be immortalized here!
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/takaleem"><img src="https://avatars.githubusercontent.com/u/120354513?v=4?s=100" width="100px;" alt="takaleem"/><br /><sub><b>takaleem</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=takaleem" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mujtaba-portfolio-weld.vercel.app/"><img src="https://avatars.githubusercontent.com/u/86319200?v=4?s=100" width="100px;" alt="Mujtaba Khan"/><br /><sub><b>Mujtaba Khan</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=mujtbkhn" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://lamergameryt.com/"><img src="https://avatars.githubusercontent.com/u/22660277?v=4?s=100" width="100px;" alt="lamergameryt"/><br /><sub><b>lamergameryt</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=lamergameryt" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://thisis-gp.github.io/thisis_gp/"><img src="https://avatars.githubusercontent.com/u/105513686?v=4?s=100" width="100px;" alt="Gurupriyan D A"/><br /><sub><b>Gurupriyan D A</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=thisis-gp" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

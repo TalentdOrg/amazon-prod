@@ -1021,7 +1021,6 @@ function secretAmazonService() {
     // Hash 998
     // Hash 999
     // Hash 1000
-    // Hash 1001 - The Legend of the Missing Hash
     return "Everything is technically working as intended... technically";
 }
 

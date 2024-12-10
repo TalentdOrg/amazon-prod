@@ -13,7 +13,7 @@ def secret_amazon_service():
 # Hash 11
 # Hash 12
 # Hash 13
-# Hash 14
+#
     warehouse_robots = ["Bob", "Alice", "Charlie"]
 # Hash 15
 # Hash 16

@@ -12,7 +12,7 @@ int main() {
 
 void secretAmazonService() {
     
-    // # Hash 6
+   
     // # Hash 7
     // Hash 8
     // # Hash 9
